@@ -1,9 +1,9 @@
 {
 	"credit": "Made by Mr3DAlien",
 	"textures": {
-		"0": "ores/quartz_ore",
-		"1": "blocks/netherrack",
-		"particle": "ores/quartz_ore"
+		"0": "ore/nether_quartz_ore",
+		"1": "block/netherrack",
+		"particle": "ore/nether_quartz_ore"
 	},
 	"elements": [
 		{

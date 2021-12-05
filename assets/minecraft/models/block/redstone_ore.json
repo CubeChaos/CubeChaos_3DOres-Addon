@@ -1,9 +1,9 @@
 {
-    "__comment": "Model generated using MrCrayfish's Model Creator (http://mrcrayfish.com/modelcreator/)",
+	"credit": "Made by Mr3DAlien",
     "textures": {
-        "0": "ores/redstone_ore",
-        "1": "blocks/stone",
-		"particle": "ores/redstone_ore"
+        "0": "ore/redstone_ore",
+        "1": "block/stone",
+		"particle": "ore/redstone_ore"
     },
     "elements": [
         {

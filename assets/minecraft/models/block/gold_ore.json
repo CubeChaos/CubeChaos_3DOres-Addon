@@ -1,9 +1,9 @@
 {
 	"credit": "Made by Mr3DAlien",
 	"textures": {
-		"0": "ores/gold_ore",
-		"1": "blocks/stone",
-		"particle": "ores/gold_ore"
+		"0": "ore/gold_ore",
+		"1": "block/stone",
+		"particle": "ore/gold_ore"
 	},
 	"elements": [
 		{
